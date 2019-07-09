@@ -1,0 +1,52 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+    background: url(images/background.jpg) no-repeat center fixed; 
+    background-size: cover;}
+
+body {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-width: 2px;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-bottom: 50px;}
+
+div {
+    width: 600px;
+    background-color: purple;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 7px;}
+
+a {
+    text-decoration: none;
+    padding-bottom: 5px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif}
+    
+img {
+    width: 400px;
+    padding-top: 20px;}
+
+.password:link{
+    color: white;}
+.password:visited{
+    color: white;}
+.password:hover{
+    color:yellow;
+    text-decoration: underline;}
+
+
+button {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 5px 15px;}
+
+.link {
+    width: 50px;
+    padding-bottom: 10px;}
